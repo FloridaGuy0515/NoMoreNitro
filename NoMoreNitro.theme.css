@@ -1,4 +1,4 @@
-//META{"name":"NoMoreNitro","description":"A BetterDiscord theme that removes references to, or advertisements for Discord Nitro and Server Boosting.","author":"FloridaGuy0515","version":"1.0.0"}*//
+//META{"name":"NoMoreNitro","description":"A BetterDiscord theme that removes references to, or advertisements for Discord Nitro and Server Boosting.","author":"FloridaGuy0515","version":"1.0.1"}*//
 /* Home */
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.sidebar-2K8pFh > nav > div.scroller-1JbKMe.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > div > a:nth-child(3) {
 	display: none;
@@ -160,9 +160,15 @@
 		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > button {
 			display: none;
 		}
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > button {
+			display: none;
+		}
 
 		/* stickers (requires nitro) */
 		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > div:nth-child(3) {
+			display: none;
+		}
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > div:nth-child(3) {
 			display: none;
 		}
 
