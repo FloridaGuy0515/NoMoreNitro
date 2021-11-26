@@ -1,0 +1,174 @@
+/* Home */
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.sidebar-2K8pFh > nav > div.scroller-1JbKMe.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > div > a:nth-child(3) {
+	display: none;
+}
+
+/* User Settings */
+	/* User Settings */
+		/* User Profile */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div.noticeWithRightPadding-3OxAxd.notice-ZSe05e.premiumInlineNotice-159eYs {
+			display: none;
+		}
+
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div.baseLayout-NX_bpH > div.customizationSection-2f2fhI.preview-1nip2n > div > div.bannerNormal-3u-o59.banner-3vVQWW > div {
+			display: none;
+		}
+
+		#app-mount > div:nth-child(7) > div.layer-2KE1M9 > div > div > div.content-1LAB8Z.modalContent-3FEGI5.thin-1ybCId.scrollerBase-289Jih > div:nth-child(2) {
+			display: none;
+		}
+
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div.baseLayout-NX_bpH > div:nth-child(1) > div:nth-child(3) {
+			display: none;
+		}
+
+	/* Billing Settings */
+	#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(8) {
+		display: none;
+	}
+
+		/* Discord Nitro */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(9) {
+			display: none;
+		}
+
+		/* Server Boost */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(10) {
+			display: none;
+		}
+
+		/* Subscriptions */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(11) {
+			display: none;
+		}
+
+		/* Gift Inventory */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(12) {
+			display: none;
+		}
+
+		/* Billing */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(13) {
+			display: none;
+		}
+
+		/* separator below Billing */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(14) {
+			display: none;
+		}
+
+	/* App Settings */
+		/* Keybinds */
+		/*
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div.marginTop60-3PGbtK > div.children-rWhLdy > div:nth-child(6) > div:nth-child(21) {
+			display: none;
+		}
+		*/
+
+		/* separator below Keybinds */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div.marginTop60-3PGbtK > div.children-rWhLdy > div:nth-child(6) > div:nth-child(22) {
+			display: none;
+		}
+
+/* servers */
+	/* global menu */
+		/* Server Boost */
+		#guild-header-popout-premium-subscribe {
+			display: none;
+		}
+
+		/* separator below Server Boost */
+		#guild-header-popout > div > div:nth-child(2) {
+			display: none;
+		}
+
+		/* Server Settings */
+			/* Overview */
+				/* Prompt members to reply to welcome messages with a sticker. */
+				/*
+				#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(3) > div:nth-child(5) {
+					display: none;
+				}
+				*/
+
+				/* Send a message when someone boosts this server. */
+				/*
+				#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(3) > div:nth-child(6) {
+					display: none;
+				}
+				*/
+
+				/* Display (all) (uncomment to disable the ENTIRE "Display" section) */
+				/*
+				#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(5) > div {
+					display: none;
+				}
+				*/
+
+				/* Display (individual) */
+					/* Show Boost progress bar */
+					/*
+					#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(5) > div > div.children-rWhLdy > div:nth-child(1) > div {
+						display: none;
+					}
+					*/
+
+					/* SERVER BANNER BACKGROUND */
+					#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(5) > div > div.children-rWhLdy > div:nth-child(2) {
+						display: none;
+					}
+
+					/* SERVER INVITE BACKGROUND */
+					#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.children-rWhLdy > div:nth-child(5) > div > div.children-rWhLdy > div:nth-child(3) {
+						display: none;
+					}
+
+			/* Roles */
+				/* Permissions */
+					/* Use External Emoji (requires Nitro) */
+					/*
+					#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.contentContainer-14yMzC > div > div.contentWidth-xLB44s > div.permissionsWrapper-1amySy > div:nth-child(4) > div:nth-child(9) {
+						display: none;
+					}
+					*/
+
+					/* Use External Stickers (requires Nitro) */
+					/*
+					#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > main > div > div.contentContainer-14yMzC > div > div.contentWidth-xLB44s > div.permissionsWrapper-1amySy > div:nth-child(4) > div:nth-child(10) {
+						display: none;
+					}
+					*/
+			/* Stickers */
+			#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(5) {
+				display: none;
+			}
+
+			/* Server Boost Status */
+			#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.sidebarRegion-VFTUkN > div > nav > div > div.serverBoostTabItem-3vujbv.item-PXvHYJ.themed-OHr7kt {
+				display: none;
+			}
+
+			/* separator below Server Boost Status */
+			#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.sidebarRegion-VFTUkN > div > nav > div > div:nth-child(21) {
+				display: none;
+			}
+
+/* text channels */
+	/* message box */
+		/* gift */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > button {
+			display: none;
+		}
+
+		/* stickers (requires nitro) */
+		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > div:nth-child(3) {
+			display: none;
+		}
+
+		/* sub-menus */
+		#sticker-picker-tab {
+			display: none;
+		}
+		#emoji-picker-tab-panel > div.emojiPicker-3PwZFl > div.premiumPromo-fVlLu- {
+			display: none;
+		}
