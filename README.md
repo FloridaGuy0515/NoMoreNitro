@@ -9,7 +9,7 @@ I got tired of Discord pestering me to subscribe to Nitro, so I made this Better
 ## Exceptions
 I have left certain things alone as they may provide useful information or functionality.
 
-For example, in `Server Settings/Overview`, I have left the toggle switches for *"Send a message when someone boosts this server"* and *"Show Boost progress bar"* alone, as they provide functionality to server admins. Also, in `User Settings/Keybinds`, I have left *"Toggle sticker picker"* visible, as it provides potentially useful information, despite the fact stickers are unavailable to non-subscribers.
+For example, in `Server Settings/Overview`, I have left the toggle switches for *"Send a message when someone boosts this server"* and *"Show Boost progress bar"* alone, as they provide functionality to server admins.
 
 If you do not want these visible, the style settings are already in the file. It's just a matter of you going in and uncommenting them.
 
