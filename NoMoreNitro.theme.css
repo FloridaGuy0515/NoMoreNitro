@@ -1,4 +1,4 @@
-//META{"name":"NoMoreNitro","description":"A BetterDiscord theme that removes references to, or advertisements for Discord Nitro and Server Boosting.","author":"FloridaGuy0515","version":"1.0.1"}*//
+//META{"name":"NoMoreNitro","description":"A BetterDiscord theme that removes references to, or advertisements for Discord Nitro and Server Boosting.","author":"FloridaGuy0515","version":"1.1.0"}*//
 /* Home */
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.sidebar-2K8pFh > nav > div.scroller-1JbKMe.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > div > a:nth-child(3) {
 	display: none;
@@ -67,9 +67,11 @@
 		*/
 
 		/* separator below Keybinds */
+		/*
 		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > main > div.marginTop60-3PGbtK > div.children-rWhLdy > div:nth-child(6) > div:nth-child(22) {
 			display: none;
 		}
+		*/
 
 /* servers */
 	/* global menu */
@@ -164,18 +166,16 @@
 			display: none;
 		}
 
-		/* stickers (requires nitro) */
-		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > div:nth-child(3) {
-			display: none;
-		}
-		#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.chat-3bRxxu > div.content-yTz4x3 > main > form > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.buttons-3JBrkn > div:nth-child(3) {
-			display: none;
-		}
-
 		/* sub-menus */
-		#sticker-picker-tab {
-			display: none;
-		}
-		#emoji-picker-tab-panel > div.emojiPicker-3PwZFl > div.premiumPromo-fVlLu- {
-			display: none;
-		}
+			#emoji-picker-tab-panel > div.emojiPicker-3PwZFl > div.premiumPromo-fVlLu- {
+				display: none;
+			}
+
+			/* "Purchase Boosts" button in stickers menu */
+			#sticker-picker-grid > div > div.scroller-3gAZLs.thin-1ybCId.scrollerBase-289Jih > div.listItems-1uJgMC > div:nth-child(1) > div.upsell-voV9AC.emptyGuildUpsell-3UP6BQ {
+				display: none;
+			}
+
+			#sticker-picker-tab-panel > div.upsellWrapper-1utsSD {
+				display: none;
+			}
