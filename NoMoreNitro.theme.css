@@ -74,6 +74,10 @@
 		*/
 
 /* servers */
+	/* "See Levels & Perks" popup */
+	.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
+  	  display: none;
+	}
 	/* global menu */
 		/* Server Boost */
 		#guild-header-popout-premium-subscribe {
