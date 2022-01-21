@@ -78,6 +78,12 @@
 	.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
   	  display: none;
 	}
+	
+	/* Server Notice (7 Boosts Until Banner Unlock) */
+	.channelNotice-tO6Tus {
+		display: none;
+	}
+	
 	/* global menu */
 		/* Server Boost */
 		#guild-header-popout-premium-subscribe {
